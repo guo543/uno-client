@@ -1,0 +1,24 @@
+.pile-container {
+    position: relative;
+    top: 0px;
+    height: 400px;
+}
+
+.pile-top {
+    position: relative;
+    top: -60px;
+    left: 830px;
+    height: 200px;
+}
+
+.arrow.up {
+    position: relative;
+    top: 100px;
+    transform: rotate(-90deg);
+}
+
+.arrow.down {
+    position: relative;
+    top: 100px;
+    transform: rotate(90deg);
+}

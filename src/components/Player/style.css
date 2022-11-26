@@ -1,0 +1,11 @@
+.player {
+    position: relative;
+    background-color: gray;
+    height: 300px;
+    width: 1800px;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
